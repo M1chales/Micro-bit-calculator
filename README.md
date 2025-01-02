@@ -4,3 +4,5 @@ This is a simple calculator program for micro:bit that has been made using MakeC
 
 # How it works
 The initial number is 5, but you can change it from the code.
+
+-- By pressing
