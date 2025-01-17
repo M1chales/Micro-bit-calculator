@@ -9,6 +9,6 @@ The initial number is 5, but you can change it from the code.
 
 -- By pressing the B button, the number goes down by 1
 
--- By leaning the micro:bit frontwards, it multiples the number by 2
+-- By leaning the micro:bit frontwards, it multiplies the number by 2
 
 -- By leaning the micro:bit backwards, it divides the number by 2
